@@ -1,1 +1,2 @@
-
+sensitivity analysis as requested by reviewer #2 
+-20% in time from diagnosis to death
