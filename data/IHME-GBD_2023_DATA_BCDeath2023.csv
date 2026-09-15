@@ -1,0 +1,190 @@
+population_group,measure,location,sex,age,cause,metric,year,val,upper,lower
+All Population,Deaths,Viet Nam,Female,15-19 years,Breast cancer,Number,2023,6.846882639460567,11.264349164747562,3.777459391743235
+All Population,Deaths,Viet Nam,Female,20-24 years,Breast cancer,Number,2023,13.891212515825886,22.736455163713458,7.828626310865735
+All Population,Deaths,Viet Nam,Female,25-29 years,Breast cancer,Number,2023,63.169917265249616,100.28243687046313,38.54705673687233
+All Population,Deaths,Viet Nam,Female,30-34 years,Breast cancer,Number,2023,220.45276822023473,339.1511655939565,125.8794616600076
+All Population,Deaths,Viet Nam,Female,35-39 years,Breast cancer,Number,2023,637.3340270194678,1016.0723598523056,384.3288914015833
+All Population,Deaths,Viet Nam,Female,40-44 years,Breast cancer,Number,2023,829.9870066,1330.9701039141023,529.9441150426197
+All Population,Deaths,Viet Nam,Female,45-49 years,Breast cancer,Number,2023,1014.6212524668571,1520.0041502698507,619.1354405972115
+All Population,Deaths,Viet Nam,Female,50-54 years,Breast cancer,Number,2023,1026.8447905783198,1525.7847529418266,639.6893677826154
+All Population,Deaths,Viet Nam,Female,55-59 years,Breast cancer,Number,2023,1125.7750782494868,1695.908030069495,702.3371997461891
+All Population,Deaths,Viet Nam,Female,60-64 years,Breast cancer,Number,2023,1251.301831921161,1991.1249794012347,804.1003809141421
+All Population,Deaths,Viet Nam,Female,65-69 years,Breast cancer,Number,2023,753.9040363890914,1132.8177229198254,467.73499144342344
+All Population,Deaths,Viet Nam,Female,70-74 years,Breast cancer,Number,2023,617.4044225002056,944.7253895389794,386.3995260647982
+All Population,Deaths,Viet Nam,Female,75-79 years,Breast cancer,Number,2023,305.2447681384234,466.0074051515555,173.2999530607239
+All Population,Deaths,Viet Nam,Female,80-84 years,Breast cancer,Number,2023,214.90217120581522,356.03174123928187,121.51145290536117
+All Population,Deaths,Viet Nam,Female,85-89 years,Breast cancer,Number,2023,214.8376284071095,356.62592853534574,117.72871980886366
+All Population,Deaths,Viet Nam,Female,90-94 years,Breast cancer,Number,2023,148.15309457078175,268.77744216996234,71.30805197
+All Population,Deaths,Viet Nam,Female,95+ years,Breast cancer,Number,2023,101.77166566649313,194.37328808992683,48.914887181302014
+All Population,Deaths,Cambodia,Female,15-19 years,Breast cancer,Number,2023,1.6373533872539674,2.544958073818244,0.9331693946022203
+All Population,Deaths,Cambodia,Female,20-24 years,Breast cancer,Number,2023,2.6997329041785116,4.310598115128172,1.5561388566245034
+All Population,Deaths,Cambodia,Female,25-29 years,Breast cancer,Number,2023,9.029117089249404,13.951147227721451,5.089019451955673
+All Population,Deaths,Cambodia,Female,30-34 years,Breast cancer,Number,2023,27.82368799,43.912443322602826,16.48424610256364
+All Population,Deaths,Cambodia,Female,35-39 years,Breast cancer,Number,2023,48.49075427272276,76.63440767585841,30.283982582377313
+All Population,Deaths,Cambodia,Female,40-44 years,Breast cancer,Number,2023,97.28267081305121,150.11711143204886,61.86311909801812
+All Population,Deaths,Cambodia,Female,45-49 years,Breast cancer,Number,2023,205.81222450110886,316.7537737274182,131.89390822564025
+All Population,Deaths,Cambodia,Female,50-54 years,Breast cancer,Number,2023,241.62955416273869,355.6818699183192,154.9892267507632
+All Population,Deaths,Cambodia,Female,55-59 years,Breast cancer,Number,2023,230.79406039448344,362.7660248581028,140.3853901872662
+All Population,Deaths,Cambodia,Female,60-64 years,Breast cancer,Number,2023,170.16858696790626,269.02006178179516,106.89238989351946
+All Population,Deaths,Cambodia,Female,65-69 years,Breast cancer,Number,2023,132.30301106297722,202.79681497365155,77.61491101653752
+All Population,Deaths,Cambodia,Female,70-74 years,Breast cancer,Number,2023,98.69444795950673,154.97153957445641,56.39058702754532
+All Population,Deaths,Malaysia,Female,15-19 years,Breast cancer,Number,2023,1.9725913730370777,2.9229364898175323,1.133233128088239
+All Population,Deaths,Malaysia,Female,20-24 years,Breast cancer,Number,2023,4.462354987,6.7710742031765445,2.8422361733128736
+All Population,Deaths,Malaysia,Female,25-29 years,Breast cancer,Number,2023,21.435455194633438,29.686142230729672,14.048869185029512
+All Population,Deaths,Malaysia,Female,30-34 years,Breast cancer,Number,2023,80.61277836402058,106.9257314693775,56.891112572643884
+All Population,Deaths,Malaysia,Female,35-39 years,Breast cancer,Number,2023,173.34500533168534,223.19531581046675,130.58312488179595
+All Population,Deaths,Malaysia,Female,40-44 years,Breast cancer,Number,2023,283.2525865933407,375.63323433700106,216.7091871688843
+All Population,Deaths,Malaysia,Female,45-49 years,Breast cancer,Number,2023,416.6032736062582,531.3803716368051,311.63159440987624
+All Population,Deaths,Malaysia,Female,50-54 years,Breast cancer,Number,2023,510.05728417028433,654.9070555541933,395.41684125403344
+All Population,Deaths,Malaysia,Female,55-59 years,Breast cancer,Number,2023,566.4934041808016,721.1494233837964,446.3102548903056
+All Population,Deaths,Malaysia,Female,60-64 years,Breast cancer,Number,2023,537.5575713,684.3363666,411.72187842863684
+All Population,Deaths,Malaysia,Female,65-69 years,Breast cancer,Number,2023,445.8193416134312,544.5562809455179,327.00198872381355
+All Population,Deaths,Malaysia,Female,70-74 years,Breast cancer,Number,2023,325.3468516895546,411.16253133309124,249.18403442377627
+All Population,Deaths,Malaysia,Female,75-79 years,Breast cancer,Number,2023,227.9892358085893,291.2995522903376,172.89587974201189
+All Population,Deaths,Malaysia,Female,80-84 years,Breast cancer,Number,2023,165.7017511555868,213.57171362866922,123.34157070256738
+All Population,Deaths,Malaysia,Female,85-89 years,Breast cancer,Number,2023,115.86400883000877,184.1934398951665,75.31660420265393
+All Population,Deaths,Malaysia,Female,90-94 years,Breast cancer,Number,2023,39.19546144793395,62.40031857866835,22.946531045725376
+All Population,Deaths,Malaysia,Female,95+ years,Breast cancer,Number,2023,9.993405840041373,16.195857593906258,5.624596095001868
+All Population,Deaths,Brunei Darussalam,Female,15-19 years,Breast cancer,Number,2023,0.016633661050873317,0.023754805,0.011334980438321604
+All Population,Deaths,Brunei Darussalam,Female,20-24 years,Breast cancer,Number,2023,0.042228545,0.05911343,0.027458313053781422
+All Population,Deaths,Brunei Darussalam,Female,25-29 years,Breast cancer,Number,2023,0.16171999433544335,0.23595209121132127,0.11342141550793826
+All Population,Deaths,Brunei Darussalam,Female,30-34 years,Breast cancer,Number,2023,1.121779923860502,1.5357518313881224,0.7805052533706606
+All Population,Deaths,Brunei Darussalam,Female,35-39 years,Breast cancer,Number,2023,2.647306750320951,3.675776771102241,1.8303146375727426
+All Population,Deaths,Brunei Darussalam,Female,40-44 years,Breast cancer,Number,2023,4.192546469419299,5.588647786406944,3.146838976104711
+All Population,Deaths,Brunei Darussalam,Female,45-49 years,Breast cancer,Number,2023,6.150175576173961,8.214079721175313,4.5721274895015664
+All Population,Deaths,Brunei Darussalam,Female,50-54 years,Breast cancer,Number,2023,8.327777922787076,10.891058811508175,6.108761238605921
+All Population,Deaths,Brunei Darussalam,Female,55-59 years,Breast cancer,Number,2023,6.6477419579177335,8.66853497,4.669258977084914
+All Population,Deaths,Brunei Darussalam,Female,60-64 years,Breast cancer,Number,2023,5.6352353930416665,7.462878161470273,3.917675444521817
+All Population,Deaths,Brunei Darussalam,Female,65-69 years,Breast cancer,Number,2023,3.769444111252664,5.3179394672214295,2.476882410968311
+All Population,Deaths,Brunei Darussalam,Female,70-74 years,Breast cancer,Number,2023,2.750733285709347,3.8656912002734116,1.8845697916574613
+All Population,Deaths,Brunei Darussalam,Female,75-79 years,Breast cancer,Number,2023,1.5986573907582204,2.190644834406207,1.0112340612699384
+All Population,Deaths,Brunei Darussalam,Female,80-84 years,Breast cancer,Number,2023,1.0708580624812458,1.4865322442672018,0.7021268060480352
+All Population,Deaths,Brunei Darussalam,Female,85-89 years,Breast cancer,Number,2023,0.5254134773376758,0.7427540957341928,0.3571866966322801
+All Population,Deaths,Brunei Darussalam,Female,90-94 years,Breast cancer,Number,2023,0.2064205125138809,0.2982013535852002,0.12648026287434755
+All Population,Deaths,Brunei Darussalam,Female,95+ years,Breast cancer,Number,2023,0.086549344,0.13191925955771217,0.049512173
+All Population,Deaths,Myanmar,Female,15-19 years,Breast cancer,Number,2023,22.049233662803932,35.97225569979828,12.977961279563244
+All Population,Deaths,Myanmar,Female,20-24 years,Breast cancer,Number,2023,63.65406726110642,103.75451018164219,33.693712341502355
+All Population,Deaths,Myanmar,Female,25-29 years,Breast cancer,Number,2023,146.78609649291045,241.11741605919607,74.87554671538938
+All Population,Deaths,Myanmar,Female,30-34 years,Breast cancer,Number,2023,479.66421700186294,717.9119928411292,271.5731377
+All Population,Deaths,Myanmar,Female,35-39 years,Breast cancer,Number,2023,456.48357387382356,669.9578353951521,286.48620551243505
+All Population,Deaths,Myanmar,Female,40-44 years,Breast cancer,Number,2023,755.9585102,1070.1952517368354,483.39501320260337
+All Population,Deaths,Myanmar,Female,45-49 years,Breast cancer,Number,2023,806.1930272100507,1120.2297034016287,529.3844785554057
+All Population,Deaths,Myanmar,Female,50-54 years,Breast cancer,Number,2023,940.6290629093694,1337.325813181415,594.6468405421479
+All Population,Deaths,Myanmar,Female,55-59 years,Breast cancer,Number,2023,1053.3596672171127,1482.4728978337805,637.4285381
+All Population,Deaths,Myanmar,Female,60-64 years,Breast cancer,Number,2023,849.1176586936593,1281.954169162411,540.6858740904165
+All Population,Deaths,Myanmar,Female,65-69 years,Breast cancer,Number,2023,693.8761427738563,1062.6965527029781,435.54736682405013
+All Population,Deaths,Myanmar,Female,70-74 years,Breast cancer,Number,2023,516.9830246185506,828.7164493598174,312.02896466442957
+All Population,Deaths,Myanmar,Female,75-79 years,Breast cancer,Number,2023,322.74487500273216,485.2747342562059,206.7594721714862
+All Population,Deaths,Myanmar,Female,80-84 years,Breast cancer,Number,2023,183.27816124789192,321.2697888702017,104.52016866029032
+All Population,Deaths,Myanmar,Female,85-89 years,Breast cancer,Number,2023,110.10079048915344,186.94159858971378,64.27131051017298
+All Population,Deaths,Myanmar,Female,90-94 years,Breast cancer,Number,2023,47.67509578787852,76.03932289416777,27.75229111802156
+All Population,Deaths,Myanmar,Female,95+ years,Breast cancer,Number,2023,14.74681632425348,24.30403793046948,8.051968471886259
+All Population,Deaths,Singapore,Female,15-19 years,Breast cancer,Number,2023,0.1419676198763886,0.17985063072702562,0.11771480898770183
+All Population,Deaths,Singapore,Female,20-24 years,Breast cancer,Number,2023,0.27618633050786806,0.340105526,0.22334552128704194
+All Population,Deaths,Singapore,Female,25-29 years,Breast cancer,Number,2023,1.5187167365782932,1.8835561256899676,1.1813951771632258
+All Population,Deaths,Singapore,Female,30-34 years,Breast cancer,Number,2023,6.079389745643122,7.394351821081174,4.970778948594004
+All Population,Deaths,Singapore,Female,35-39 years,Breast cancer,Number,2023,11.638160205603604,14.028958877770357,9.499220663
+All Population,Deaths,Singapore,Female,40-44 years,Breast cancer,Number,2023,17.940220150401753,22.426996671188316,15.052187636956305
+All Population,Deaths,Singapore,Female,45-49 years,Breast cancer,Number,2023,35.30217289660868,42.72712983305348,29.933065546408194
+All Population,Deaths,Singapore,Female,50-54 years,Breast cancer,Number,2023,45.78878218431267,53.80110542109188,38.55215828371998
+All Population,Deaths,Singapore,Female,55-59 years,Breast cancer,Number,2023,65.94443533473859,76.54957903993459,56.350170660547946
+All Population,Deaths,Singapore,Female,60-64 years,Breast cancer,Number,2023,69.61314139878301,82.13904746469157,59.24330406905617
+All Population,Deaths,Singapore,Female,65-69 years,Breast cancer,Number,2023,81.29969552,92.14850436106441,69.75108927
+All Population,Deaths,Singapore,Female,70-74 years,Breast cancer,Number,2023,75.49322185783194,87.14286931960399,63.72072278474613
+All Population,Deaths,Singapore,Female,75-79 years,Breast cancer,Number,2023,53.293487304009325,62.719782268493816,44.983182711675234
+All Population,Deaths,Singapore,Female,80-84 years,Breast cancer,Number,2023,50.77567574981983,62.12400142416125,37.83726116
+All Population,Deaths,Singapore,Female,85-89 years,Breast cancer,Number,2023,30.194496973586787,37.07431343751794,21.29402687138153
+All Population,Deaths,Singapore,Female,90-94 years,Breast cancer,Number,2023,23.853045530261898,29.934432579045577,16.71520892281674
+All Population,Deaths,Singapore,Female,95+ years,Breast cancer,Number,2023,15.71970181496928,19.98484683031639,10.489718213389127
+All Population,Deaths,Cambodia,Female,75-79 years,Breast cancer,Number,2023,69.61578825853726,110.53566409582531,40.25483366125116
+All Population,Deaths,Cambodia,Female,80-84 years,Breast cancer,Number,2023,52.98791740409667,80.06005316,30.72690229568069
+All Population,Deaths,Cambodia,Female,85-89 years,Breast cancer,Number,2023,33.112292666041505,55.51893862248858,17.84761776865799
+All Population,Deaths,Cambodia,Female,90-94 years,Breast cancer,Number,2023,12.77842906659088,22.018747341786224,6.989530516906715
+All Population,Deaths,Cambodia,Female,95+ years,Breast cancer,Number,2023,3.657209796929207,5.643242921735335,1.817488734895171
+All Population,Deaths,Philippines,Female,15-19 years,Breast cancer,Number,2023,13.017764872195109,17.513870279818548,9.624647974
+All Population,Deaths,Philippines,Female,20-24 years,Breast cancer,Number,2023,24.69375263069855,33.03557700707759,17.776049392378162
+All Population,Deaths,Philippines,Female,25-29 years,Breast cancer,Number,2023,93.93067812502353,120.73954169706354,68.01386877581565
+All Population,Deaths,Philippines,Female,30-34 years,Breast cancer,Number,2023,296.6794440435702,381.03643582225345,228.47752082169123
+All Population,Deaths,Philippines,Female,35-39 years,Breast cancer,Number,2023,611.4519903008661,747.3713111993973,486.0101942000968
+All Population,Deaths,Philippines,Female,40-44 years,Breast cancer,Number,2023,1060.0696716870327,1260.8339476000328,865.7202063449873
+All Population,Deaths,Philippines,Female,45-49 years,Breast cancer,Number,2023,1465.839344771452,1735.733547394904,1235.1142680731307
+All Population,Deaths,Philippines,Female,50-54 years,Breast cancer,Number,2023,1759.4165904263484,2076.5871612241467,1460.3523597183578
+All Population,Deaths,Philippines,Female,55-59 years,Breast cancer,Number,2023,1763.8730656567493,2044.4214741259477,1489.7181094395698
+All Population,Deaths,Philippines,Female,60-64 years,Breast cancer,Number,2023,1497.7018370771182,1773.855072294021,1234.3392222446162
+All Population,Deaths,Philippines,Female,65-69 years,Breast cancer,Number,2023,1232.4111213804981,1453.185844153182,1012.5282067424156
+All Population,Deaths,Philippines,Female,70-74 years,Breast cancer,Number,2023,942.2651562413382,1136.9203824367312,752.4058073979113
+All Population,Deaths,Philippines,Female,75-79 years,Breast cancer,Number,2023,636.3243750831924,769.8176264320288,502.3512497991653
+All Population,Deaths,Philippines,Female,80-84 years,Breast cancer,Number,2023,458.11209940632483,556.2156649501333,354.17547387700864
+All Population,Deaths,Philippines,Female,85-89 years,Breast cancer,Number,2023,312.0639111,402.4545108043587,229.84609750519928
+All Population,Deaths,Philippines,Female,90-94 years,Breast cancer,Number,2023,117.15758032971729,156.39033521541148,84.96039981
+All Population,Deaths,Philippines,Female,95+ years,Breast cancer,Number,2023,22.318326826893227,31.56262815,14.314013627220174
+All Population,Deaths,Thailand,Female,15-19 years,Breast cancer,Number,2023,4.522738730348547,6.481996693,2.996614376141809
+All Population,Deaths,Thailand,Female,20-24 years,Breast cancer,Number,2023,8.563087472403291,12.33148760870418,5.426077188390003
+All Population,Deaths,Thailand,Female,25-29 years,Breast cancer,Number,2023,38.580548576013875,53.60978168422865,25.394984292416122
+All Population,Deaths,Thailand,Female,30-34 years,Breast cancer,Number,2023,132.54287387294278,182.43887948400595,95.53557474272542
+All Population,Deaths,Thailand,Female,35-39 years,Breast cancer,Number,2023,283.0334320548687,378.3213829013042,196.48343741850874
+All Population,Deaths,Thailand,Female,40-44 years,Breast cancer,Number,2023,566.3699184312609,764.7941514931804,428.37202572775277
+All Population,Deaths,Thailand,Female,45-49 years,Breast cancer,Number,2023,883.8437182544566,1145.7444703198528,673.6919541927964
+All Population,Deaths,Thailand,Female,50-54 years,Breast cancer,Number,2023,1178.541004406969,1481.200344324177,918.5636846205135
+All Population,Deaths,Thailand,Female,55-59 years,Breast cancer,Number,2023,1369.9907124048837,1742.1983790562927,1065.651215697179
+All Population,Deaths,Thailand,Female,60-64 years,Breast cancer,Number,2023,1136.4013010480107,1466.3055412599767,855.1902926783949
+All Population,Deaths,Thailand,Female,65-69 years,Breast cancer,Number,2023,1013.4184183319319,1326.4559632430226,763.5659366565083
+All Population,Deaths,Thailand,Female,70-74 years,Breast cancer,Number,2023,879.9287720492439,1197.428895081955,644.7267945062241
+All Population,Deaths,Thailand,Female,75-79 years,Breast cancer,Number,2023,610.3964670949489,854.6849156494428,447.3230377972523
+All Population,Deaths,Thailand,Female,80-84 years,Breast cancer,Number,2023,546.1370928633834,773.3006806772668,380.7381609881077
+All Population,Deaths,Thailand,Female,85-89 years,Breast cancer,Number,2023,303.31754920323317,498.3006093948527,199.8392228942875
+All Population,Deaths,Thailand,Female,90-94 years,Breast cancer,Number,2023,136.27806517891955,239.5223604019712,82.99315477968833
+All Population,Deaths,Thailand,Female,95+ years,Breast cancer,Number,2023,69.43449643237713,133.28223904752545,39.03082845
+All Population,Deaths,Indonesia,Female,15-19 years,Breast cancer,Number,2023,35.60171715041202,56.84218093419694,20.66385741370657
+All Population,Deaths,Indonesia,Female,20-24 years,Breast cancer,Number,2023,65.29394849,96.40905306190936,39.56750058119473
+All Population,Deaths,Indonesia,Female,25-29 years,Breast cancer,Number,2023,242.10068010474356,357.7029301952158,154.72771259032692
+All Population,Deaths,Indonesia,Female,30-34 years,Breast cancer,Number,2023,957.1474423896955,1435.6924799606572,589.7484207
+All Population,Deaths,Indonesia,Female,35-39 years,Breast cancer,Number,2023,1790.7942858508316,2644.671718,1172.351368662323
+All Population,Deaths,Indonesia,Female,40-44 years,Breast cancer,Number,2023,3935.9755464478885,5895.844851,2497.457859629969
+All Population,Deaths,Indonesia,Female,45-49 years,Breast cancer,Number,2023,4520.193014764545,6858.144802026982,2870.900307965921
+All Population,Deaths,Indonesia,Female,50-54 years,Breast cancer,Number,2023,4539.881051540143,6503.963984492104,2857.3493244724696
+All Population,Deaths,Indonesia,Female,55-59 years,Breast cancer,Number,2023,3946.83463,5643.863747342124,2578.5453236744343
+All Population,Deaths,Indonesia,Female,60-64 years,Breast cancer,Number,2023,3300.624029057648,5007.009809016909,1982.7745475718202
+All Population,Deaths,Indonesia,Female,65-69 years,Breast cancer,Number,2023,2158.715553504086,3384.505506606081,1273.7067350418772
+All Population,Deaths,Indonesia,Female,70-74 years,Breast cancer,Number,2023,1361.269850905689,2073.196729918517,858.8107288566765
+All Population,Deaths,Indonesia,Female,75-79 years,Breast cancer,Number,2023,651.3614744860329,982.3338166273597,407.84596236152333
+All Population,Deaths,Indonesia,Female,80-84 years,Breast cancer,Number,2023,398.47033453652546,602.4884582298143,235.21513010770832
+All Population,Deaths,Indonesia,Female,85-89 years,Breast cancer,Number,2023,172.51688699688026,270.3427417352944,101.29497451616324
+All Population,Deaths,Indonesia,Female,90-94 years,Breast cancer,Number,2023,110.72903743503788,186.19535939050414,65.61451213484341
+All Population,Deaths,Indonesia,Female,95+ years,Breast cancer,Number,2023,100.40538903259457,161.67311944874683,55.28635668525461
+All Population,Deaths,Lao People's Democratic Republic,Female,15-19 years,Breast cancer,Number,2023,2.0606197560150354,3.3772255474540422,1.264476518860866
+All Population,Deaths,Lao People's Democratic Republic,Female,20-24 years,Breast cancer,Number,2023,1.7293675995299247,2.7063335702980367,1.0670735871834254
+All Population,Deaths,Lao People's Democratic Republic,Female,25-29 years,Breast cancer,Number,2023,11.344944969877371,17.881436569250013,6.722248664001064
+All Population,Deaths,Lao People's Democratic Republic,Female,30-34 years,Breast cancer,Number,2023,51.61489784,82.22333853173886,29.170770069973617
+All Population,Deaths,Lao People's Democratic Republic,Female,35-39 years,Breast cancer,Number,2023,80.21040069058114,118.2160416090936,51.770586396876865
+All Population,Deaths,Lao People's Democratic Republic,Female,40-44 years,Breast cancer,Number,2023,120.8720465641094,179.98951418833028,74.96417551106957
+All Population,Deaths,Lao People's Democratic Republic,Female,45-49 years,Breast cancer,Number,2023,113.30185424361922,166.08239486529584,70.59565491190237
+All Population,Deaths,Lao People's Democratic Republic,Female,50-54 years,Breast cancer,Number,2023,120.89347292008681,185.96578978972775,72.62997701627737
+All Population,Deaths,Lao People's Democratic Republic,Female,55-59 years,Breast cancer,Number,2023,117.1038887048879,173.36971664082552,74.74743585852292
+All Population,Deaths,Lao People's Democratic Republic,Female,60-64 years,Breast cancer,Number,2023,92.10300952362122,142.39172451770332,57.853442344658724
+All Population,Deaths,Lao People's Democratic Republic,Female,65-69 years,Breast cancer,Number,2023,68.65673482,103.23979889277433,42.51875409473535
+All Population,Deaths,Lao People's Democratic Republic,Female,70-74 years,Breast cancer,Number,2023,49.40197744287021,76.49899549377187,28.918746214959672
+All Population,Deaths,Lao People's Democratic Republic,Female,75-79 years,Breast cancer,Number,2023,27.61250382501254,42.41865717568622,16.991508058891867
+All Population,Deaths,Lao People's Democratic Republic,Female,80-84 years,Breast cancer,Number,2023,21.07084756106574,33.78216627587412,12.48753929
+All Population,Deaths,Lao People's Democratic Republic,Female,85-89 years,Breast cancer,Number,2023,12.43570291538123,19.441378183055313,7.380053864515522
+All Population,Deaths,Lao People's Democratic Republic,Female,90-94 years,Breast cancer,Number,2023,5.346336096430874,8.251836027660444,2.9298133787844494
+All Population,Deaths,Lao People's Democratic Republic,Female,95+ years,Breast cancer,Number,2023,1.5460642715689805,2.6037801,0.808831607
+All Population,Deaths,Timor-Leste,Female,15-19 years,Breast cancer,Number,2023,0.262749387,0.4163213580074625,0.15432082580043022
+All Population,Deaths,Timor-Leste,Female,20-24 years,Breast cancer,Number,2023,0.48145981929890397,0.7600053493986795,0.2806422654385904
+All Population,Deaths,Timor-Leste,Female,25-29 years,Breast cancer,Number,2023,2.539998698033519,3.9687032865097276,1.503298340960961
+All Population,Deaths,Timor-Leste,Female,30-34 years,Breast cancer,Number,2023,9.475133189616074,14.678363028498618,5.803020269127725
+All Population,Deaths,Timor-Leste,Female,35-39 years,Breast cancer,Number,2023,7.326885797881321,11.192980495069577,4.632581309233036
+All Population,Deaths,Timor-Leste,Female,40-44 years,Breast cancer,Number,2023,9.250063023122856,14.603115447441148,6.032545064498338
+All Population,Deaths,Timor-Leste,Female,45-49 years,Breast cancer,Number,2023,6.956138387167808,10.560076787136866,4.176194101548195
+All Population,Deaths,Timor-Leste,Female,50-54 years,Breast cancer,Number,2023,8.850210678794127,12.865708733779922,5.092078994169728
+All Population,Deaths,Timor-Leste,Female,55-59 years,Breast cancer,Number,2023,9.616203843632844,14.190326853889019,5.760562406
+All Population,Deaths,Timor-Leste,Female,60-64 years,Breast cancer,Number,2023,7.9299051109518865,11.874386821852843,4.507597438115752
+All Population,Deaths,Timor-Leste,Female,65-69 years,Breast cancer,Number,2023,7.465928015061055,12.526621936071757,4.5026788792383465
+All Population,Deaths,Timor-Leste,Female,70-74 years,Breast cancer,Number,2023,8.561808328532162,13.447624427199651,4.899711781178523
+All Population,Deaths,Timor-Leste,Female,75-79 years,Breast cancer,Number,2023,7.211655386911947,11.142659679985384,4.328637514937735
+All Population,Deaths,Timor-Leste,Female,80-84 years,Breast cancer,Number,2023,2.6490259633224573,4.050277562670524,1.522083538340456
+All Population,Deaths,Timor-Leste,Female,85-89 years,Breast cancer,Number,2023,1.2154908561344604,1.9203041290200995,0.6781027647671964
+All Population,Deaths,Timor-Leste,Female,90-94 years,Breast cancer,Number,2023,0.45094451391425866,0.7172757163698767,0.24593704255933932
+All Population,Deaths,Timor-Leste,Female,95+ years,Breast cancer,Number,2023,0.086953044,0.14398098095418488,0.04712736
+,,,,,,,,,,
+,,,,,,,,,,
