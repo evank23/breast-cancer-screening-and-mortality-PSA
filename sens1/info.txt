@@ -1,1 +1,2 @@
-
+sensitivity analysis as requested by reviewer #1 (implicitly)
+assessing robustness of (median in the main) estimates by going half the number of iterations in all MCMCs
